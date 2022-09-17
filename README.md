@@ -40,8 +40,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # 기능별 주요 로직
-> 회원가입, 로그인, 로그아웃
-- security 와 handler를 이용해 처리<br>
+>  상품등록 , 이미지 업로드&저장 
+- 상품 등록<br>
 ### customLogin.jsp, customLogout.jsp : hidden속성으로 csrf토큰 사용.
 ~~~jsp
 <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}" />
