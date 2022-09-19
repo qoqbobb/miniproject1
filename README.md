@@ -17,7 +17,7 @@
 
 >back-end
 - Java
-- spring (spring tool suite 3)
+- spring
 - lombok 
 - oracle DB
 - mybatis 
