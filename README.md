@@ -203,11 +203,19 @@ if(!uploadResultArr || uploadResultArr.length == 0){return}
 		return result;
 	   }
 ~~~
-### 검색
+### 이미지 업로드
 <div>
- <img src="https://user-images.githubusercontent.com/19407579/69799597-ed6ac780-1216-11ea-9af9-b569be35792c.gif">
+ <img src="https://user-images.githubusercontent.com/105841315/191144786-cf427c20-d975-44c7-9764-602358090ed3.gif">
+</div>
+
+<br>
+
+### 이미지 주소 저장
+<div>
+ <img src="https://user-images.githubusercontent.com/105841315/191144950-a48d4a1d-e6d1-4619-81a0-19d566de8cae.png">
 </div>
 <br>
+
 
 >이미지 게시판 구현 
 
@@ -225,6 +233,7 @@ if(!uploadResultArr || uploadResultArr.length == 0){return}
 		return list;
 	}
 ~~~
+
 ### list.jsp DB에 저장되어있는 이미지 주소 불러오기
 ~~~jsp
     <div class="card border-0 transform-on-hover">
@@ -234,10 +243,11 @@ if(!uploadResultArr || uploadResultArr.length == 0){return}
 						<img alt="Card Image" class="card-img-top">
 					</div>
 ~~~
-### 파일 삭제 결과
+### 이미지 게시판 결과
 <div>
- <img src="https://user-images.githubusercontent.com/19407579/69810742-ea300580-122f-11ea-8198-fc578566bc40.gif">
+ <img width="829" alt="KakaoTalk_20220918_220142750" src="https://user-images.githubusercontent.com/105841315/191145240-79660efb-d213-4d2c-bc71-a56ca5d876cd.png">
 </div>
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
