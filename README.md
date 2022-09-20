@@ -88,9 +88,10 @@
  
 ### 상품등록
 <div>
-  <img src="https://user-images.githubusercontent.com/19407579/69789626-44b36c80-1204-11ea-94ac-d53cf39954ff.gif">
+  <img src="https://user-images.githubusercontent.com/105841315/191143007-c847b3ed-c9de-40b9-88dd-9d8ca3958166.gif">
 </div>
-<br>
+
+
 
 
 - 이미지 업로드&저장
